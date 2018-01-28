@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Truelse</string>
+
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="score">Счёт: </string>
+
+    <string name="loading">Загружаем данные...</string>
+
+
+    <string name="incorrect_toast">Неверный ответ :(</string>
+    <string name="correct_toast">Верный ответ :)</string>
+
+
+</resources>
